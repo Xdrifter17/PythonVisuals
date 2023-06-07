@@ -1,2 +1,2 @@
 # PythonVisuals
-Coding, Data Analysis, Data Cleaning, Visualizations done with Python.
+Coding, Data Analysis, Data Cleaning, Visualizations created with Python.
